@@ -431,7 +431,7 @@ MonoBehaviour:
   BlockingMovementStates: 
   BlockingConditionStates: 
   BlockingWeaponStates: 
-  WalkSpeed: 6
+  WalkSpeed: 12
   ResetHorizontalSpeedBtn: 0
   MovementSpeedMultiplier: 1
   AbilityMovementSpeedMultiplier: 1

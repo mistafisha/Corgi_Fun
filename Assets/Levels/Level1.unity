@@ -243,11 +243,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 487530, guid: f82bb2459c8c3e04583215a6dd3a59bf, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -54.538452
+      value: -15.47
       objectReference: {fileID: 0}
     - target: {fileID: 487530, guid: f82bb2459c8c3e04583215a6dd3a59bf, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -10.831274
+      value: -10.78
       objectReference: {fileID: 0}
     - target: {fileID: 487530, guid: f82bb2459c8c3e04583215a6dd3a59bf, type: 3}
       propertyPath: m_LocalPosition.z
@@ -434,7 +434,7 @@ MonoBehaviour:
   BoundsMode: 1
   LevelBounds:
     m_Center: {x: -5.3, y: 3.11, z: 0}
-    m_Extent: {x: 81.31, y: 16.7, z: 5}
+    m_Extent: {x: 80.5, y: 16.7, z: 5}
   ConvertToColliderBoundsButton: 0
   LoadingSceneMode: 1
   LoadingSceneName: LoadingScreen
@@ -703,6 +703,11 @@ PrefabInstance:
     - target: {fileID: 11489144, guid: 6059d977d1f210348bfbe1a82f4f9883, type: 3}
       propertyPath: GameOverScene
       value: GameOverScreen
+      objectReference: {fileID: 0}
+    - target: {fileID: 114992019002501916, guid: 6059d977d1f210348bfbe1a82f4f9883,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

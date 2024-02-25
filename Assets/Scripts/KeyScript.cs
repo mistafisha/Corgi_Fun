@@ -13,6 +13,8 @@ public class KeyScript : MonoBehaviour
             //disabling 2D Box Collider on invisible gate
             Debug.Log("Suit Picked Up");
             gateCollider.GetComponent<BoxCollider2D>().enabled = false;
+
+            this.gameObject.SetActive(false);
         }
     }
 }

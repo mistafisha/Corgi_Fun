@@ -10,13 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 56bfaa6641535b642bc1b478c9d3c065, type: 3}
-  m_Name: InventoryEngineKey
+  m_Name: SuitKey
   m_EditorClassIdentifier: 
-  ItemID: 
+  ItemID: SuitKey
   TargetInventoryName: MainInventory
   ForceSlotIndex: 0
   TargetIndex: 0
-  Usable: 0
+  Usable: 1
   Consumable: 1
   ConsumeQuantity: 1
   Equippable: 0
@@ -36,7 +36,7 @@ MonoBehaviour:
   ItemName: 
   ShortDescription: 
   Description: 
-  Icon: {fileID: 0}
+  Icon: {fileID: 21300012, guid: 678058abcbfe36f42902c11d9e5f64fc, type: 3}
   Prefab: {fileID: 0}
   ForcePrefabDropQuantity: 0
   PrefabDropQuantity: 1
